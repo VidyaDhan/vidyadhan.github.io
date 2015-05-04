@@ -3,7 +3,6 @@ html {
   min-height: 100%;
 }
 body {
-  /* Margin bottom by footer height */
   margin-bottom: 60px;
   font-size: 16px;
 }
@@ -11,7 +10,6 @@ body {
   position: absolute;
   bottom: 0;
   width: 100%;
-  /* Set the fixed height of the footer here */
   height: 60px;
   background-color: #f5f5f5;
 }
@@ -24,3 +22,11 @@ body {
 .container .text-muted {
   margin: 20px 0;
 }
+
+.homepage img {  margin-bottom: 10px; margin-right: 10px;   }
+
+.post img {  margin-bottom: 10px; margin-right: 10px; border: 1px solid #888;  }
+
+.voffset { margin-bottom: 20px; }
+
+.payPalForm { margin-top: 40px;}

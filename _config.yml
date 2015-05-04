@@ -1,0 +1,9 @@
+baseurl: ""
+permalink: pretty
+markdown: kramdown
+gems:
+  - jekyll-redirect-from # see https://github.com/jekyll/jekyll-redirect-from
+  - jekyll-sitemap # see https://github.com/jekyll/jekyll-sitemap
+  - jemoji  # see https://github.com/github/gemoji/blob/master/db/emoji.json for list of icons
+
+copyrightYear: 2015
