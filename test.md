@@ -25,7 +25,7 @@ Some content here
 
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
-[testing another link](http://www.kranti-india.org/)
+[Link to Kranti site](http://www.kranti-india.org/)
 
 An image using an HTML image tag:
 
