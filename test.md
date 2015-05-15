@@ -24,7 +24,7 @@ Some content here
 [Donate page](/donate)
 
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
+[testing another link](http://www.kranti-india.org/)
 
 An image using an HTML image tag:
 
