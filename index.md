@@ -54,7 +54,7 @@ full_posts: 1
 <div class="row">
   <div class="col-md-12">
 
-<p>Attached are brief details, further information can be provided. The selection process is underway for 2015/16 and we hope to sponsor the education of at least 15 children, mostly girls.</p>
+<p>For 2014/15 we sponsored 12 children. The selection process is underway for 2015/16 and we hope to sponsor the education of at least 15 children, mostly girls.</p>
   
   </div>
 </div><!-- /row -->
