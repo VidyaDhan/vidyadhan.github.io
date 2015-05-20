@@ -13,7 +13,8 @@ title: Donate to Vidya Dhan
 	<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-
+<p> </P>
+<p> </P>
 You can also donate by bank transfer to:-
 <p>Vidya Dhan</p>
 <p>HSBC Bank plc</p>
