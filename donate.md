@@ -13,9 +13,10 @@ title: Donate to Vidya Dhan
 	<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
 </form>
 
+
 You can also donate by bank transfer to:-
-Vidya Dhan
-HSBC Bank plc
-Ealing Broadway Branch
-Sort code - 40-02-26
-Account number - 12703963
+<p>Vidya Dhan</p>
+<p>HSBC Bank plc</p>
+<p>Ealing Broadway Branch</p>
+<p>Sort code - 40-02-26</p>
+<p>Account number - 12703963</p>
