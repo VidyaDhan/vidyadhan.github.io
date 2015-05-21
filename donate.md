@@ -15,7 +15,7 @@ title: Donate to Vidya Dhan
 
 <p> </P>
 <p> </P>
-You can also donate by bank transfer to:-
+**You can also donate by bank transfer to:-**
 <p>Vidya Dhan</p>
 <p>HSBC Bank plc</p>
 <p>Ealing Broadway Branch</p>
